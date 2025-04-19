@@ -1,0 +1,1 @@
+DeepAi is a self evolution Ai placed in the bottom of Marianne's trench. He is capable of excavating minerals from the bottom of the ocean and build new part and is capable of detecting light from a mile to excavate in a way that won't damage it. A backbone reaches this machine which will be used to decide how is a criminal

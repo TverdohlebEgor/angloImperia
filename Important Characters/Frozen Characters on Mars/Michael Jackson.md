@@ -1,0 +1,1 @@
+Finally became white and in 2009 get Frozen and move to [[Mars]] because [[Elon Mask]] wanted to save a lot of famous people

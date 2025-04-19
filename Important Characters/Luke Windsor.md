@@ -1,0 +1,1 @@
+Is a Humandroid build by [[DeepAi]] to win election in [[Anglo Imperia]] and expand his power

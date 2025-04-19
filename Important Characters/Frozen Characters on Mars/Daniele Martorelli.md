@@ -1,0 +1,1 @@
+Was playing a magic tournament with first prize a trip to [[Mars]] and won by accident. He never returned
