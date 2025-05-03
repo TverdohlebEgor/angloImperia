@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5d565252e6af8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglo Imperia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anglo Imperia"
-            }
-          },
-          {
             "id": "dbd2aefe80dbb2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Characters/Frozen Characters on Mars/Daniele Martorelli.md",
+                "file": "first session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daniele Martorelli"
-            }
-          },
-          {
-            "id": "4a796dc8f5350e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thyolock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thyolock"
+              "title": "first session"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,25 +168,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a796dc8f5350e20",
+  "active": "dbd2aefe80dbb2c2",
   "lastOpenFiles": [
-    "Mars.md",
-    "first session.md",
     "Finals.md",
-    "DeepAi.md",
+    "Shrewsbury/Piano 1/Shrewsbury.md",
+    "Shrewsbury/Piano 1/RoboRohn.md",
+    "Shrewsbury/Piano 1/Local Church.md",
+    "Shrewsbury/Piano 1/Little Italy.md",
+    "Shrewsbury/Piano 1/Hotel Mirai.md",
+    "Shrewsbury/Piano 1/CTs Paradise.md",
+    "Shrewsbury/Piano 1/Arenas.md",
+    "Shrewsbury/Piano 1/Street Market.md",
+    "Shrewsbury/Piano 1/UMB.md",
     "AngloImperia Informazioni sul mondo.pdf",
     "Anglo Imperia.md",
-    "Important Characters/Oliver Windsor.md",
-    "Important Characters/Luke Windsor.md",
+    "DeepAi.md",
+    "Thyolock.md",
+    "Mars.md",
+    "first session.md",
+    "Elay Himowey.md",
+    "BGs/Vales aggiunte bg.pdf",
+    "BGs/lu4268cb5ktw.tmp",
+    "BGs/Liv aggiunte Bg.pdf",
+    "BGs/lu20888cb5fwd.tmp",
+    "BGs/Erick aggiunte Bg.pdf",
+    "BGs/lu18588cb5b2o.tmp",
+    "BGs/Vicktor aggiunte BG.pdf",
+    "BGs/lu21000cb4t06.tmp",
+    "BGs/Liv aggiunte Bg.odt",
     "Important Characters/Thyolock/Clod Enzierl.md",
     "Important Characters/Thyolock/Barret Wallace.md",
-    "AngloImperia.odt",
-    "AngloImperia.pdf",
-    "Thyolock.md",
-    "Important Characters/Thyolock",
-    "Important Characters/Frozen Characters on Mars/Michael Jackson.md",
     "Important Characters/Frozen Characters on Mars/Daniele Martorelli.md",
-    "Important Characters/Frozen Characters on Mars",
-    "Important Characters"
+    "Important Characters/Oliver Windsor.md",
+    "Important Characters/Luke Windsor.md",
+    "Important Characters/Frozen Characters on Mars/Michael Jackson.md"
   ]
 }
